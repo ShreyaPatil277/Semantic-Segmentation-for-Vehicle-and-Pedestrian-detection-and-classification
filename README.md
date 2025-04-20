@@ -27,5 +27,6 @@ This captures real Indian traffic with all its complexities like:
 - 📊 Matplotlib-based visualization: original, mask, overlay
 
 ## 📸 Example Outputs
-| ![Original](outputs/sample_outputs/original.png) | ![Mask](outputs/sample_outputs/mask.png) | ![Overlay](outputs/sample_outputs/overlay.png) |
+![1](https://github.com/user-attachments/assets/572b4d0e-1a90-45f1-aa39-68b8c1d89ec9)
+
 
