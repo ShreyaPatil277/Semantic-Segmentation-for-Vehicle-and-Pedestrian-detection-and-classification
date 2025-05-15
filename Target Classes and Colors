@@ -3,8 +3,8 @@
 
 
 Class	                       Color(RGB)
-Road            	           Green [0, 255, 0]
-Car	                         Red [255, 0, 0]
+Road            	           Red [255, 0, 0]
+Car	                         Green[0,255,0]
 Motorcycle	                 Blue [0, 0, 255]
 Autorickshaw	               Yellow [255, 255, 0]
 Vehicle Fallback	           Pink [255, 0, 255]
